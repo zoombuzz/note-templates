@@ -22,13 +22,13 @@ This story needs more elaboration.
 The goal here is to make the static profiles user-updateable.
 
 ### Tasks
-+ Create user profile page
-  + Display existing profile fields
-+ Show edit button for authenticated users viewing their own profile
-+ Render current profile settings as form
++ [x] Create user profile page
+  + [x] Display existing profile fields
++ [x] Show edit button for authenticated users viewing their own profile
++ [ ] Render current profile settings as form
 
 ### Acceptance criteria
-+ All form fields must be validated server-side at submission time
++ [ ] All form fields must be validated server-side at submission time
 
 
 ## Create 'Our team' page
