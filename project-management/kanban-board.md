@@ -1,4 +1,4 @@
-# Example project ([](?type=board&ng_level=1&ng_child_type=story&ng_child_status=backlog&ng_view=kanban))
+# Example project [](?type=board&ng_level=1&ng_child_type=story&ng_child_status=backlog&ng_view=kanban)
 
 This a very generalised example of what a project might look like.  It illustrates a small team of collaborators working on a handful of epics.  Please feel free to edit it.
 
