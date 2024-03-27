@@ -17,7 +17,7 @@ This story needs more elaboration.
 + Redeploy to `prod` and retest
 
 
-## As a user, I want to update my profile ('[doing](?status=doing)' [story](?type=story) for [Alex](?assignee=Alex), [35% complete](?progress=35&progress_unit=%25&progress_max=100))
+## As a user, I want to update my profile ('[doing](?ordering_weight=1&status=doing)' [story](?type=story) for [Alex](?assignee=Alex), [35% complete](?progress=35&progress_unit=%25&progress_max=100))
 
 The goal here is to make the static profiles user-updatable.
 
@@ -45,7 +45,7 @@ The goal here is to make the static profiles user-updatable.
 + Page is W3C WCAG 3 compliant
 
 
-## Look at NoteGit.com [](?status=doing)
+## Look at NoteGit [](?status=doing)
 
 + Could start managing all our non-code data as text
 + [ ] Mess around with Markdown to get a feel for how easy that would be 
