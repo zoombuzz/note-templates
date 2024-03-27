@@ -19,7 +19,7 @@ This story needs more elaboration.
 
 ## As a user, I want to update my profile ('[doing](?status=doing)' [story](?type=story) for [Alex](?assignee=Alex), [35% complete](?progress=35&progress_unit=%25&progress_max=100))
 
-The goal here is to make the static profiles user-updateable.
+The goal here is to make the static profiles user-updatable.
 
 ### Tasks
 + [x] Create user profile page
@@ -31,7 +31,7 @@ The goal here is to make the static profiles user-updateable.
 + [ ] All form fields must be validated server-side at submission time
 
 
-## Create 'Our team' page
+## Create 'Our team' page [](?status=backlog)
 
 ### Tasks
 + Add `name` and `role` for current team members
@@ -43,4 +43,10 @@ The goal here is to make the static profiles user-updateable.
 
 ### Acceptance criteria
 + Page is W3C WCAG 3 compliant
+
+
+## Look at NoteGit.com [](?status=doing)
+
++ Could start managing all our non-code data as text
++ [ ] Mess around with Markdown to get a feel for how easy that would be 
 
